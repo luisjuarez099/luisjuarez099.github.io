@@ -1,3 +1,10 @@
 body{
-    background-color: rgb(81, 94, 145);
+    background-color: rgb(109, 134, 231);
+}
+.main{
+    color: beige;
+}
+
+.bio{
+    color: rgb(202, 174, 228);
 }
